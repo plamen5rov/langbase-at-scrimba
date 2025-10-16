@@ -1,0 +1,7 @@
+Gigabyte Technology Co., Ltd. Z790 EAGLE AX, 
+i9 12the gen CPU, 
+64 GB RAM, 
+Nvidia RTX 5070 GPU, 12 RAM, 
+2TB hard disk, 
+Linux Pop!_OS 22.04 LTS
+
